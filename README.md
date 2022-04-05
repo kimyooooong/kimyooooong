@@ -1,28 +1,40 @@
 <p>
-  👋&nbsp; Hi I'm Backend Developer using Spring / Java 🚀<br/>
+  🚀 Hi I'm Backend <b>Developer</b> using Spring / Java <br/>
+  Nice to meet you !!! ✨ 
 </p>
 
-### 💪 Skills
+
+### Using Skills ! 
+
+
+
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/JAVA-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=black"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-00FFCC?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-99FF99?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-61DAFB?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mysql-02569B?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
-#### Tools
+
+
+#### Infra
+
 <p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-0095D5?style=flat-square&logo=Amazon&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-6666FF?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0000FF?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
+
+
+
+#### Tools & IDEA
+<p>
+  <img src="https://img.shields.io/badge/Sts-B7178C?style=flat-square&logo=Sts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intelliJ-CC0000?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SourceTree-0033FF?style=flat-square&logo=SourceTree&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-the-badge&logo=jira&logoColor=white"/>
 </p>

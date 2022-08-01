@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/JAVA-00FFCC?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-99FF99?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-61DAFB?style=flat-square&logo=Linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Mysql-02569B?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-583724?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-02569B?style=flat-square&logo=Jenkins&logoColor=black"/>
 </p>
 
 
